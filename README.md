@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello!
+  
+I know a little bit about how computers work,  
+currently learning how the internet works.
 
 <!--
 **tylerweston/tylerweston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
